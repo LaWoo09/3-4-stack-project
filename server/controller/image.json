@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Waves", "image":"", "price":"" },
+    { "id": 2, "name": "Croche", "image":"", "price":"" },
+    { "id": 3, "name": "Finger Waves", "image":"", "price":"" },
+    { "id": 4, "name": "Dreads", "image":"", "price":"" },
+    { "id": 5, "name": "Bob", "image":"", "price":"" },
+    { "id": 6, "name": "Mohawk", "image":"", "price":"" },
+    { "id": 7, "name": "", "image":"", "price":"" } 
+]
